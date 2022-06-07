@@ -8,6 +8,6 @@ public class DemoController {
 
     @GetMapping("/api")
     public String getMessage() {
-        return  "First app deployed !!";
+        return  "First app deployed !! and  it is working !!";
     }
 }
